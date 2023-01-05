@@ -1,4 +1,4 @@
-# Excel Dashboards
+# Excel Dashboard
 
 The goal of this project is to showcase management dashboards prepared using built-in advanced Excel functions, charting techniques and tools (i.e. Power Query).
 

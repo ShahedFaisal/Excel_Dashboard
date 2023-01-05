@@ -1,6 +1,6 @@
 # Excel Dashboard
 
-The goal of this project is to showcase management reporting dashboards prepared using built-in Excel functions, advanced charting techniques and tools (i.e. Power Query).
+The goal of this project is to showcase sample management dashboards prepared using Excel functions, advanced charting techniques and tools (i.e. Power Query).
 
 ## Sales Dashboard
 
